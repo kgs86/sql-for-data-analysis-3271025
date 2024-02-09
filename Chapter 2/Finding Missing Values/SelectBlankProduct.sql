@@ -1,3 +1,3 @@
 SELECT ProductCode
 FROM Product
-WHERE ProductName =' ';
+WHERE ProductName IS NULL;

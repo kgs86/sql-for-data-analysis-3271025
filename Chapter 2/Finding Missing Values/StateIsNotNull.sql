@@ -1,5 +1,6 @@
 SELECT CustomerID,
   FirstName,
-  LastName
+  LastName,
+  State
 FROM Customer
 WHERE State IS NOT NULL
